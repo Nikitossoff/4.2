@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1793793780 source:d:\Сахаров Никита\4.2\dynamic_m.c
+	"dynamic_m.h"
+	<malloc.h>
+
+1793793698 d:\Сахаров Никита\4.2\dynamic_m.h
+	<stdio.h>
+
+1793793754 source:d:\Сахаров Никита\4.2\main.c
+	<stdio.h>
+	<malloc.h>
+	<locale.h>
+	"dynamic_m.h"
+
